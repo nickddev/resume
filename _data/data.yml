@@ -47,6 +47,12 @@ sidebar:
       info:
         - item: Electronics
           link:
+        
+        - item: Engineering
+          link:
+        
+        - item: Web & Design
+          link:
 
         - item: Instruments + Audio
           link:
@@ -123,68 +129,78 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
+        - name: JavaScript Algorithms & Data Structures
+          #start: 2020
+          end: 2023
+          organization: Free Code Camp
+          #credentialid: 111-222
+          #credentialurl: www.google.com
+          #credentialname: Google
+          #details: |
+          #  Details about cert. Lorem ipsum dolor sit amet, consectetur
+          #  adipiscing elit.
+          #  Nullam eget orci purus. Nullam ultrices neque nibh.
+          #  Aenean fermentum, felis vulputate suscipit accumsan,
+          #  sem enim bibendum augue, sed convallis arcu lacus at dui.
+          #  Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+          #  Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+          #  Praesent venenatis erat non augue suscipit consectetur.
+        
+          #  Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+          #  fringilla vel. Ut euismod, sem sed vulputate venenatis,
+          #  justo diam viverra velit, sed rhoncus leo leo eu justo.
+          #  Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Responsive Web Design 
+          #start: 2019
+          end: 2023
+          organization: Free Code Camp
+          #credentialid: 111-222
+          #credentialurl: www.github.com
+          #credentialname: Github
+          #details: |
+          #  Older certification. Lorem ipsum dolor sit amet, consectetur
+          #  adipiscing elit.
+          #  Nullam eget orci purus. Nullam ultrices neque nibh.
+          #  Aenean fermentum, felis vulputate suscipit accumsan,
+          #  sem enim bibendum augue, sed convallis arcu lacus at dui.
+          #  Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+          #  Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+          #  Praesent venenatis erat non augue suscipit consectetur.
+        - name: Leadership & Management
+          #start: 2019
           end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          organization: IES
+        - name: Hazwoper & Environmental Compliance
+          start: 2017
+          end: 2019
+          organization: OSHA
+        - name: Sales & Management
+          #start: 2019
+          end: 2015
+          organization: PWG
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Engineering & Development projects I've been a part of both professionally and personally. 
     assignments:
-      - title: Velocity
+      - title: Phoenix Bridge System I/O Interface (2022)
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: Phoenix 1000 Carburetor (2020)
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: Flowbox Device (2019)
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: Phoenix 1000 APCS Full-System PCB Suite Redesign (2018)
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: Phoenix Nova Full System Hardware, PCB, FW+SW UI/UX Design
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
