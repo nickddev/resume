@@ -95,7 +95,7 @@ experiences:
           Led West Coast engineering, manufacturing, and service operations for an environmental engineering firm and manufacturer of industrial equipment and proprietary air pollution control electronics systems (APCS) for VOC abatement and air quality management. Project site data is collected via APCS systems and transmitted via wireless telemetry for environmental and industry compliance.  
             - Bullet point
             - Bullet point
-      - role: Director, Engineering & Development
+      - role: Director, Engineering Operations & Development
         time: 2018 - 2022
         company: IES, Ventura
         details: |
@@ -117,13 +117,18 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: Director, Digital Marketing & Web Development, SCHC, LLC
+      - role: Director, Digital Marketing & Web Development
         time: 2015 - 2017
-      - role: Sales Director, Park West Gallery
+        company: SCHC, LLC
+      - role: Sales Director
         time: 2014-2015
-      - role: Marketing Specialist & Web Developer, University of California Santa Cruz
+        company: Park West Gallery
+      - role: Marketing Specialist & Web Developer
         time: 2010-2012
-
+        company: University of California Santa Cruz     
+        company: Director, Digital Marketing & Web Development, SCHC LLC 2015-2017
+        company: Sales Director, Park West Gallery 2014-2015
+        company: Marketing Specialist & Web Developer, UCSC 2010-2012
 
 certifications:
       title: Certifications
