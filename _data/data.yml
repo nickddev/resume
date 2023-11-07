@@ -195,7 +195,7 @@ projects:
 
       - title: Flowbox Device Hardware Redesign(2019)
         link: "#"
-        tagline: "Redesigned “Flowbox” device HW used to measure and collect flow, vacuum, tempertaure, static line, and differential pressure data. Coordinated with FW+SW engineers "
+        tagline: "Redesigned “Flowbox” device HW used to measure and collect flow, vacuum, tempertaure, static line, and differential pressure data. Coordinated with FW+SW engineers to test, verify, and complete software and firmware."
 
       - title: Phoenix 1000 APCS Full-System PCB Suite Redesign (2018)
         link: "#"
