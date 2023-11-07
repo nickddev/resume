@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: ND
-    tagline: VP Operations
+    tagline: VP, Industrial Operations
     avatar: ndprofileud.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -55,7 +55,7 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Professional Profile
     summary: Industrial operations professional with 10+ years of experience in technical leadership, driving innovation in engineering development, environmental technology, and industrial manufacturing. Proven track record building, leading, and managing high-performance, cross-functional teams in developing effective solutions to complex technical, operational, and engineering challenges. Leverages diverse skillset and data-driven decision-making to drive operational excellence, enhance profitability, and foster business growth.
 education:
     title: Education
@@ -86,9 +86,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: VP, Industrial Operations
+        time: 2022 - Present
+        company: IES, Ventura
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -101,9 +101,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Director, Engineering & Development
+        time: 2018 - 2022
+        company: IES, Ventura
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -112,9 +112,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Engineering Manager, Electronics Design & Embedded Systems
+        time: 2017 - 2018
+        company: IES, Ventura
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
