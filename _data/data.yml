@@ -89,7 +89,7 @@ experiences:
         time: 2022 - 2023
         company: IES, Ventura
         details: |
-          Led West Coast engineering, manufacturing, and service operations for an environmental engineering firm and manufacturer of industrial equipment and proprietary air pollution control electronics systems (APCS) for VOC abatement and air quality management. Project site data is collected via APCS systems and transmitted via wireless telemetry for environmental and industry compliance.  
+          Led West Coast engineering, manufacturing, and service operations for an engineering firm and manufacturer of industrial environmental equipment (IER) and proprietary air pollution control electronics systems (APCS) for VOC abatement and air quality management. Project site data is collected via APCS systems and transmitted via wireless telemetry for environmental and industry compliance.  
             - Increased revenue 20% YoY to $3.8MM managing 20+ staff across 30+ global sites for clients including Shell, Exxon Mobil, and BP.
             - Reduced mfg timelines 25% and materials costs 35% through lean manufacturing, and process, MRP/ERP, and supply-chain optimization.
             - Partnered with executive leadership to develop, scale, and manage key initiatives, driving strategic goals.
@@ -105,8 +105,11 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Launched department, led teams in R&D, product engineering, electronics manufacturing, project site data pipelines, telemetry architecture, and technical support. 
+            - Increased revenue $1.2MM over tenure spearheading client equipment warranty program.
+            - Reduced electronics mfg lead times 92% + materials 64% through workflow streamlining, continuous improvement, strategic procurement, and team mentoring.
+            - Led cross-functional reengineering of industrial system data I/O interface, integrating new control, event-monitoring, and data functions. 
+            - Improved operational efficiency 45% by engineering and deploying SQL/PHP server-hosted inventory and Power BI asset-tracking systems.
       - role: Engineering Manager, Electronics Design & Embedded Systems
         time: 2017 - 2018
         company: IES, Ventura
