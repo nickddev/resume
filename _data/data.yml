@@ -9,25 +9,25 @@ sidebar:
 
     # Profile information
     name: ND
-    tagline: Operations Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: VP Operations
+    avatar: ndprofile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: nd@email.com
     phone: 111-111-1111
     timezone: America/PST Timezone
-    citizenship:
+    citizenship: USA
     #website: blog.webjeda.com #add your website - do not add http://
     linkedin: nd
-    xing: nd
+    #xing: nd
     github: nddev
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
