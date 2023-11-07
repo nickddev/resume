@@ -185,24 +185,24 @@ projects:
       Engineering & Development projects I've been a part of both professionally and personally. 
     assignments:
       - title: Phoenix Bridge System I/O Interface (2022)
-        link: "#hook"
+        #link: "#hook"
         tagline: "Collaborated with FW, SW, and HW engineers to redesign and expand data acquisition features in the IER I/O system interface. Integrated new data collection, event-monitoring, and control functionality."
         
       - title: Phoenix 1000 Carburetor (2020)
-        link: "#"
+        #link: "#"
         tagline: "Full HW redesign of electromechanical 3x stepper motor carburetor. Designed enclosure, PCB, valves, valve seats, and interface to increase durability and prevent field contaminant interference."
 
       - title: Flowbox Device Hardware Redesign(2019)
-        link: "#"
+        #link: "#"
         tagline: "Redesigned “Flowbox” device HW used to measure and collect flow, vacuum, tempertaure, static line, and differential pressure data. Designed custom enclosure, SPI circuitry, PCB, HW, component spec, SW UI. Coordinated with FW+SW engineers to test, verify, and complete SW + FW."
 
       - title: Phoenix 1000 APCS Full-System PCB Suite Redesign (2018)
-        link: "#"
+        #link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Phoenix Nova Full-System Hardware, PCB, FW+SW UI/UX Design
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Phoenix Nova Full-System Design (2016-2019)
+        #link: "#"
+        tagline: "Led product HW development for company’s modular ARM-based environmental DAQ and distributed intelligence electronics suite. Designed system PCBs, HW, FW+SW UI/UX prototype, assembly, and testing. Collaborated cross-functionally to complete FW+SW engineering."
 
 #oss:
 #    title: OSS Contributions
