@@ -87,7 +87,7 @@ experiences:
     info:
       - role: VP, GM Industrial Operations
         time: 2022 - 2023
-        company: IES, Ventura
+        company: RSI, Ventura
         details: |
           Led West Coast engineering, manufacturing, and service operations for an engineering firm and manufacturer of industrial environmental equipment (IER) and proprietary air pollution control electronics systems (APCS) for VOC abatement and air quality management. Project site data is collected via APCS systems and transmitted via wireless telemetry for environmental and industry compliance.  
             - Increased revenue 20% YoY to $3.8MM managing 20+ staff across 30+ global sites for clients including Shell, Exxon Mobil, and BP.
@@ -98,7 +98,7 @@ experiences:
             - Contributed to 5x EBITDA valuation during acquisition, integrating critical electronics mfg into company operations. 
       - role: Director, Engineering Operations & Development
         time: 2018 - 2022
-        company: IES, Ventura
+        company: RSI, Ventura
         details: |
             - Launched department, led teams in R&D, product engineering, electronics manufacturing, project site data pipelines, telemetry architecture, and technical support. 
             - Increased revenue $1.2MM over tenure spearheading client equipment warranty program.
@@ -107,7 +107,7 @@ experiences:
             - Improved operational efficiency 45% by engineering and deploying SQL/PHP server-hosted inventory and Power BI asset-tracking systems.
       - role: Engineering Manager, Electronics Design & Embedded Systems
         time: 2017 - 2018
-        company: IES, Ventura
+        company: RSI, Ventura
         details: |
             - Led in-house production and design of proprietary industrial electronics systems in dynamic and high-volume mfg lab environment.
             - Designed and developed mixed-signal SPI circuitry, schematic capture, and TH/SMD PCB layout, ensuring design, project, and industry specifications.
@@ -180,7 +180,7 @@ certifications:
 projects:
     title: Projects
     intro: >
-      Engineering & Development projects I've been a part of both professionally and personally. 
+      Professional and personal Engineering & Development projects. 
     assignments:
       - title: Phoenix Bridge System I/O Interface (2022)
         #link: "#hook"
