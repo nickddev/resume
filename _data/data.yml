@@ -8,8 +8,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: ND
-    tagline: VP, Industrial Operations
+    name: Nick D
+    tagline: VP, GM Industrial Operations
     avatar: ndprofileud.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
