@@ -188,14 +188,13 @@ projects:
         link: "#hook"
         tagline: "Collaborated with FW, SW, and HW engineers to redesign and expand data acquisition features in the IER I/O system interface. Integrated new data collection, event-monitoring, and control functionality."
         
-
       - title: Phoenix 1000 Carburetor (2020)
         link: "#"
         tagline: "Full HW redesign of electromechanical 3x stepper motor carburetor. Designed enclosure, PCB, valves, valve seats, and interface to increase durability and prevent field contaminant interference."
 
       - title: Flowbox Device Hardware Redesign(2019)
         link: "#"
-        tagline: "Redesigned “Flowbox” device HW used to measure and collect flow, vacuum, tempertaure, static line, and differential pressure data. Coordinated with FW+SW engineers to test, verify, and complete software and firmware."
+        tagline: "Redesigned “Flowbox” device HW used to measure and collect flow, vacuum, tempertaure, static line, and differential pressure data. Designed custom enclosure, SPI circuitry, PCB, HW, component spec, SW UI. Coordinated with FW+SW engineers to test, verify, and complete SW + FW."
 
       - title: Phoenix 1000 APCS Full-System PCB Suite Redesign (2018)
         link: "#"
