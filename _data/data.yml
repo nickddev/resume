@@ -18,7 +18,7 @@ sidebar:
     timezone: America/PST Timezone
     citizenship: USA
     #website: blog.webjeda.com #add your website - do not add http://
-    linkedin: nd
+    linkedin: ndenova
     #xing: nd
     github: nickddev #don't need full URL
     #telegram: # add your nickname without '@' sign
@@ -28,7 +28,7 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://nickddev.github.io/resume/print
 
     languages:
       title: Languages
