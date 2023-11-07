@@ -117,7 +117,13 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-    title: Previous Experience
+      - role: Director, Digital Marketing & Web Development, SCHC, LLC
+        time: 2015 - 2017
+      - role: Sales Director, Park West Gallery
+        time: 2014-2015
+      - role: Marketing Specialist & Web Developer, University of California Santa Cruz
+        time: 2010-2012
+
 
 certifications:
       title: Certifications
