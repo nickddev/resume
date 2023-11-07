@@ -247,23 +247,44 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Program + Project Management
+        #level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Technology Strategy
+        #level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Technical Operations
+        #level: 98%
+        
+      - name: Leadership
+        #level: 95%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Industrial Manufacturing 
+        #level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Electronics Engineering
+        #level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Strategic Planning
+        #level: 60%
 
+      - name: Process Optimization
+        #level: 98%
+
+      - name: Product Development
+        #level: 98%
+
+      - name: AutoCAD + Schematics Capture + PCB Layout
+        #level: 98%
+
+      - name: Web Development + HTML,CSS,JS
+        #level: 95%
+
+      - name: Team-Building
+        #level: 85%
+
+      - name: Descision-Making
+        #level: 60%
+        
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
