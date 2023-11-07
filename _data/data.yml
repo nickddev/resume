@@ -100,11 +100,6 @@ experiences:
         time: 2018 - 2022
         company: IES, Ventura
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
             - Launched department, led teams in R&D, product engineering, electronics manufacturing, project site data pipelines, telemetry architecture, and technical support. 
             - Increased revenue $1.2MM over tenure spearheading client equipment warranty program.
             - Reduced electronics mfg lead times 92% + materials 64% through workflow streamlining, continuous improvement, strategic procurement, and team mentoring.
@@ -114,13 +109,11 @@ experiences:
         time: 2017 - 2018
         company: IES, Ventura
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Led in-house production and design of proprietary industrial electronics systems in dynamic and high-volume mfg lab environment.
+            - Designed and developed mixed-signal SPI circuitry, schematic capture, and TH/SMD PCB layout, ensuring design, project, and industry specifications.
+            - Managed end-to-end electronics production, including TH/SMD PCB assembly, board-level troubleshooting and repair, firmware compilation, IC programming (NVRAM, EEPROM, PLC, MCU), and quality control.
+            - Generated and managed all CAD drawings, mechanical assembly, P&ID, documentation, specifications, BOMs, SOPs, and fabrication deliverables.
+            - Collaborated with cross-functional teams to resolve technical issues, implement design changes, meet timelines, and integrate electronics into industrial mechanical systems.
       - role: Director, Digital Marketing & Web Development
         time: 2015 - 2017
         company: SCHC, LLC
