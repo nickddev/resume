@@ -117,18 +117,18 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: Director, Digital Marketing & Web Development
-        time: 2015 - 2017
+      #- role: Director, Digital Marketing & Web Development
+      #  time: 2015 - 2017
         company: SCHC, LLC
-      - role: Sales Director
-        time: 2014-2015
+      #- role: Sales Director
+      #  time: 2014-2015
         company: Park West Gallery
-      - role: Marketing Specialist & Web Developer
-        time: 2010-2012
+      #- role: Marketing Specialist & Web Developer
+      #  time: 2010-2012
         company: University of California Santa Cruz     
-        company: Director, Digital Marketing & Web Development, SCHC LLC 2015-2017
-        company: Sales Director, Park West Gallery 2014-2015
-        company: Marketing Specialist & Web Developer, UCSC 2010-2012
+      #  company: Director, Digital Marketing & Web Development, SCHC LLC 2015-2017
+      #  company: Sales Director, Park West Gallery 2014-2015
+      #  company: Marketing Specialist & Web Developer, UCSC 2010-2012
 
 certifications:
       title: Certifications
