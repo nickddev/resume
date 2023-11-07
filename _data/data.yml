@@ -20,7 +20,7 @@ sidebar:
     #website: blog.webjeda.com #add your website - do not add http://
     linkedin: nd
     #xing: nd
-    github: nddev
+    github: https://github.com/nickddev
     #telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
@@ -62,7 +62,7 @@ education:
     info:
       - degree: BA Digital Media & Technology
         university: University of California Santa Cruz
-        time: 2010-2012
+        time: 2010-2012 GPA 3.8 
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
