@@ -54,9 +54,12 @@ sidebar:
         - item: Web & Design
           link:
 
-        - item: Instruments + Audio
+        - item: Audio + Instruments
           link:
-
+          
+        - item: Cycling
+          link:
+          
         - item: DIY
           link:
 
